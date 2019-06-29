@@ -30,35 +30,35 @@
           </a-plane>
       </a-marker>
       <a-marker id='frac3' type='pattern' url='statics/marker/8.patt' vidhandler>
-         <a-plane src="statics/caixa/8.jpg" scale="6.3 6.3 6.3" rotation="-90 90 0" position="0 0 -0.8" transparent="true">
+         <a-plane src="statics/caixa/8.jpeg" scale="6.3 6.3 6.3" rotation="-90 90 0" position="0 0 -0.8" transparent="true">
           </a-plane>
       </a-marker>
       <a-marker id='frac3' type='pattern' url='statics/marker/9.patt' vidhandler>
-         <a-plane src="statics/caixa/9.jpg" scale="6.3 6.3 6.3" rotation="-90 90 0" position="0 0 -0.8" transparent="true">
+         <a-plane src="statics/caixa/9.jpeg" scale="6.3 6.3 6.3" rotation="-90 90 0" position="0 0 -0.8" transparent="true">
           </a-plane>
       </a-marker>
       <a-marker id='frac3' type='pattern' url='statics/marker/10.patt' vidhandler>
-         <a-plane src="statics/caixa/10.jpg" scale="6.3 6.3 6.3" rotation="-90 90 0" position="0 0 -0.8" transparent="true">
+         <a-plane src="statics/caixa/10.jpeg" scale="6.3 6.3 6.3" rotation="-90 90 0" position="0 0 -0.8" transparent="true">
           </a-plane>
       </a-marker>
       <a-marker id='frac3' type='pattern' url='statics/marker/11.patt' vidhandler>
-         <a-plane src="statics/caixa/11.jpg" scale="6.3 6.3 6.3" rotation="-90 90 0" position="0 0 -0.8" transparent="true">
+         <a-plane src="statics/caixa/11.jpeg" scale="6.3 6.3 6.3" rotation="-90 90 0" position="0 0 -0.8" transparent="true">
           </a-plane>
       </a-marker>
       <a-marker id='frac3' type='pattern' url='statics/marker/12.patt' vidhandler>
-         <a-plane src="statics/caixa/12.jpg" scale="6.3 6.3 6.3" rotation="-90 90 0" position="0 0 -0.8" transparent="true">
+         <a-plane src="statics/caixa/12.jpeg" scale="6.3 6.3 6.3" rotation="-90 90 0" position="0 0 -0.8" transparent="true">
           </a-plane>
       </a-marker>
       <a-marker id='frac3' type='pattern' url='statics/marker/13.patt' vidhandler>
-         <a-plane src="statics/caixa/13.jpg" scale="6.3 6.3 6.3" rotation="-90 90 0" position="0 0 -0.8" transparent="true">
+         <a-plane src="statics/caixa/13.jpeg" scale="6.3 6.3 6.3" rotation="-90 90 0" position="0 0 -0.8" transparent="true">
           </a-plane>
       </a-marker>
       <a-marker id='frac3' type='pattern' url='statics/marker/14.patt' vidhandler>
-         <a-plane src="statics/caixa/14.jpg" scale="6.3 6.3 6.3" rotation="-90 90 0" position="0 0 -0.8" transparent="true">
+         <a-plane src="statics/caixa/14.jpeg" scale="6.3 6.3 6.3" rotation="-90 90 0" position="0 0 -0.8" transparent="true">
           </a-plane>
       </a-marker>
       <a-marker id='frac3' type='pattern' url='statics/marker/15.patt' vidhandler>
-         <a-plane src="statics/caixa/15.jpg" scale="6.3 6.3 6.3" rotation="-90 90 0" position="0 0 -0.8" transparent="true">
+         <a-plane src="statics/caixa/15.jpeg" scale="6.3 6.3 6.3" rotation="-90 90 0" position="0 0 -0.8" transparent="true">
           </a-plane>
       </a-marker>
         <a-entity camera></a-entity>
