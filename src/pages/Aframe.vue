@@ -29,14 +29,6 @@
          <a-plane src="statics/caixa/7.jpg" scale="6.3 6.3 6.3" rotation="-90 90 0" position="0 0 -0.8" transparent="true">
           </a-plane>
       </a-marker>
-      <a-marker id='frac3' type='pattern' url='statics/marker/8.patt' vidhandler>
-         <a-plane src="statics/caixa/8.jpg" scale="6.3 6.3 6.3" rotation="-90 90 0" position="0 0 -0.8" transparent="true">
-          </a-plane>
-      </a-marker>
-      <a-marker id='frac3' type='pattern' url='statics/marker/9.patt' vidhandler>
-         <a-plane src="statics/caixa/9.jpg" scale="6.3 6.3 6.3" rotation="-90 90 0" position="0 0 -0.8" transparent="true">
-          </a-plane>
-      </a-marker>
         <a-entity camera></a-entity>
     </a-scene>
 
